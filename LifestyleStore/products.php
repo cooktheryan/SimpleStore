@@ -39,7 +39,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Cannon EOS</h3>
-                                    <p>Price: Rs. 36000.00</p>
+                                    <p>Price: $36000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -67,7 +67,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Sony DSLR</h3>
-                                    <p>Price: Rs. 40000.00</p>
+                                    <p>Price: $40000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -94,7 +94,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Sony DSLR</h3>
-                                    <p>Price: Rs. 50000.00</p>
+                                    <p>Price: $50000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -121,7 +121,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Olympus DSLR</h3>
-                                    <p>Price: Rs. 80000.00</p>
+                                    <p>Price: $80000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -150,7 +150,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Titan Model #301</h3>
-                                    <p>Price: Rs. 13000.00</p>
+                                    <p>Price: $13000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -177,7 +177,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Titan Model #201</h3>
-                                    <p>Price: Rs. 3000.00</p>
+                                    <p>Price: $3000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -204,7 +204,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>HMT Milan</h3>
-                                    <p>Price: Rs. 8000.00</p>
+                                    <p>Price: $8000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -231,7 +231,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Favre Leuba #111</h3>
-                                    <p>Price: Rs. 18000.00</p>
+                                    <p>Price: $18000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -260,7 +260,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Raymond</h3>
-                                    <p>Price: Rs. 1500.00</p>
+                                    <p>Price: $1500.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -287,7 +287,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>Charles</h3>
-                                    <p>Price: Rs. 1000.00</p>
+                                    <p>Price: $1000.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -314,7 +314,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>HXR</h3>
-                                    <p>Price: Rs. 900.00</p>
+                                    <p>Price: $900.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -341,7 +341,7 @@
                             <center>
                                 <div class="caption">
                                     <h3>PINK</h3>
-                                    <p>Price: Rs. 1200.00</p>
+                                    <p>Price: $1200.00</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
