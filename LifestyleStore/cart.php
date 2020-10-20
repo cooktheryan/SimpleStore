@@ -26,7 +26,7 @@
 <html>
     <head>
         <link rel="shortcut icon" href="img/lifestyleStore.png" />
-        <title>Simple Store</title>
+        <title>Big Kahuna Burger</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- latest compiled and minified CSS -->
@@ -72,7 +72,7 @@
             <footer class="footer">
                <div class="container">
                <center>
-                   <p>Copyright &copy Simple Store. All Rights Reserved. | Contact Me at Skype: webdev0528</p>
+                   <p>Copyright &copy Big Kahuna Burger. All Rights Reserved. | Contact Me at Skype: webdev0528</p>
                    <p>This website is developed by Web Dev</p>
                </center>
                </div>

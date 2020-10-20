@@ -6,7 +6,7 @@
 <html>
     <head>
         <link rel="shortcut icon" href="img/lifestyleStore.png" />
-        <title>Simple Store</title>
+        <title>Big Kahuna Burger</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- latest compiled and minified CSS -->
@@ -25,7 +25,7 @@
             ?>
             <div class="container">
                 <div class="jumbotron">
-                    <h1>Welcome to our Simple Store!</h1>
+                    <h1>Welcome to our Big Kahuna Burger!</h1>
                     <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
@@ -366,7 +366,7 @@
            <footer class="footer">
                <div class="container">
                <center>
-                   <p>Copyright &copy Simple Store. All Rights Reserved. | Contact Us: +91 90000 00000</p>
+                   <p>Copyright &copy Big Kahuna Burger. All Rights Reserved. | Contact Us: +91 90000 00000</p>
                    <p>This website is developed by Web Dev</p>
                </center>
                </div>
