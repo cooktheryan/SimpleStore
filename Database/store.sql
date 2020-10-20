@@ -39,18 +39,15 @@ CREATE TABLE `items` (
 --
 
 INSERT INTO `items` (`id`, `name`, `price`) VALUES
-(1, 'Cannon EOS', 36000),
-(2, 'Sony DSLR', 40000),
-(3, 'Sony DSLR', 50000),
-(4, 'Olympus DSLR', 80000),
-(5, 'Titan Model #301', 13000),
-(6, 'Titan Model #201', 3000),
-(7, 'HMT Milan', 8000),
-(8, 'Favre Lueba #111', 18000),
-(9, 'Raymond', 1500),
-(10, 'Charles', 1000),
-(11, 'HXR', 900),
-(12, 'PINK', 1200);
+(1, 'Plain Burger', 6),
+(2, 'Cheeseburger', 7),
+(3, 'Pineapple burger', 8),
+(4, 'Everything Burger', 80000),
+(5, 'Small Fry', 3),
+(6, 'Large Fry', 4),
+(7, 'Chocolate Shake', 3),
+(8, 'Vanilla Shake', 3),
+(9, 'Pineapple Shake', 3);
 
 -- --------------------------------------------------------
 

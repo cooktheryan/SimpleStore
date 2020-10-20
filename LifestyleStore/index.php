@@ -26,9 +26,9 @@ session_start();
                <div class="container">
                    <center>
                    <div id="bannerContent">
-                       <h1>We sell lifestyle.</h1>
-                       <p>Flat 40% OFF on all premium brands.</p>
-                       <a href="products.php" class="btn btn-danger">Shop Now</a>
+                       <h1>Milkshake Sale!.</h1>
+                       <p>$1 off all milkshakes.</p>
+                       <a href="milkshakes.php" class="btn btn-danger">Shop Now</a>
                    </div>
                    </center>
                </div>
@@ -37,39 +37,39 @@ session_start();
                <div class="row">
                    <div class="col-xs-4">
                        <div  class="thumbnail">
-                           <a href="products.php">
-                                <img src="img/camera.jpg" alt="Camera">
+                           <a href="burger.php">
+                                <img src="img/camera.jpg" alt="Burgers">
                            </a>
                            <center>
                                 <div class="caption">
                                         <p id="autoResize">Cameras</p>
-                                        <p>Choose among the best available in the world.</p>
+                                        <p>Welcome to burgertown.</p>
                                 </div>
                            </center>
                        </div>
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="products.php">
-                               <img src="img/watch.jpg" alt="Watch">
+                           <a href="fries.php">
+                               <img src="img/watch.jpg" alt="fries">
                            </a>
                            <center>
                                 <div class="caption">
-                                    <p id="autoResize">Watches</p>
-                                    <p>Original watches from the best brands.</p>
+                                    <p id="autoResize">Fries</p>
+                                    <p>All the fries!</p>
                                 </div>
                            </center>
                        </div>
                    </div>
                    <div class="col-xs-4">
                        <div class="thumbnail">
-                           <a href="products.php">
-                               <img src="img/shirt.jpg" alt="Shirt">
+                           <a href="milkshakes.php">
+                               <img src="img/shirt.jpg" alt="Shakes">
                            </a>
                            <center>
                                <div class="caption">
                                    <p id="autoResize">Shirts</p>
-                                   <p>Our exquisite collection of shirts.</p>
+                                   <p>MMMM That's a tasty beverage.</p>
                                </div>
                            </center>
                        </div>
