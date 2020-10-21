@@ -38,11 +38,11 @@ session_start();
                    <div class="col-xs-4">
                        <div  class="thumbnail">
                            <a href="burger.php">
-                                <img src="img/camera.jpg" alt="Burgers">
+                                <img src="img/plain.jpeg" alt="Burgers">
                            </a>
                            <center>
                                 <div class="caption">
-                                        <p id="autoResize">Cameras</p>
+                                        <p id="autoResize">Burgers</p>
                                         <p>Welcome to burgertown.</p>
                                 </div>
                            </center>
@@ -51,7 +51,7 @@ session_start();
                    <div class="col-xs-4">
                        <div class="thumbnail">
                            <a href="fries.php">
-                               <img src="img/watch.jpg" alt="fries">
+                               <img src="img/large.jpeg" alt="fries">
                            </a>
                            <center>
                                 <div class="caption">
@@ -64,11 +64,11 @@ session_start();
                    <div class="col-xs-4">
                        <div class="thumbnail">
                            <a href="milkshakes.php">
-                               <img src="img/shirt.jpg" alt="Shakes">
+                               <img src="img/shake.jpeg" alt="Shakes">
                            </a>
                            <center>
                                <div class="caption">
-                                   <p id="autoResize">Shirts</p>
+                                   <p id="autoResize">Shakes</p>
                                    <p>MMMM That's a tasty beverage.</p>
                                </div>
                            </center>

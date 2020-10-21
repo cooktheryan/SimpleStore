@@ -26,7 +26,7 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to our Big Kahuna Burger!</h1>
-                    <p>We have the best milkshakes in the yard.</p>
+                    <p>We have amazing burgers.</p>
                 </div>
             </div>
             <div class="container">
@@ -34,7 +34,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/cannon_eos.jpg" alt="Chocolate">
+                                <img src="img/chocolate.jpg" alt="Chocolate">
                             </a>
                             <center>
                                 <div class="caption">
@@ -62,7 +62,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr.jpeg" alt="Vanilla">
+                                <img src="img/vanilla.jpg" alt="Vanilla">
                             </a>
                             <center>
                                 <div class="caption">
@@ -73,7 +73,7 @@
                                         <?php
                                         }
                                         else{
-                                            if(check_if_added_to_cart(8){
+                                            if(check_if_added_to_cart(8)){
                                                 echo '<a href="#" class=btn btn-block btn-success disabled>Added to cart</a>';
                                             }else{
                                                 ?>
@@ -89,7 +89,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr2.jpeg" alt="Pineapple">
+                                <img src="img/pineapple.jpg" alt="Pineapple">
                             </a>
                             <center>
                                 <div class="caption">

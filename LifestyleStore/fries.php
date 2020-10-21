@@ -34,7 +34,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/cannon_eos.jpg" alt="Small">
+                                <img src="img/small.jpeg" alt="Small">
                             </a>
                             <center>
                                 <div class="caption">
@@ -62,7 +62,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr.jpeg" alt="Large">
+                                <img src="img/large.jpeg" alt="Large">
                             </a>
                             <center>
                                 <div class="caption">

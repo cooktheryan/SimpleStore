@@ -34,7 +34,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/cannon_eos.jpg" alt="Plain">
+                                <img src="img/plain.jpeg" alt="Plain">
                             </a>
                             <center>
                                 <div class="caption">
@@ -62,7 +62,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr.jpeg" alt="Cheeseburger">
+                                <img src="img/cheese.jpg" alt="Cheeseburger">
                             </a>
                             <center>
                                 <div class="caption">
@@ -89,7 +89,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr2.jpeg" alt="Pineapple">
+                                <img src="img/pineapple.jpg" alt="Pineapple">
                             </a>
                             <center>
                                 <div class="caption">
@@ -116,7 +116,7 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/olympus.jpg" alt="Everything">
+                                <img src="img/everything.jpeg" alt="Everything">
                             </a>
                             <center>
                                 <div class="caption">
