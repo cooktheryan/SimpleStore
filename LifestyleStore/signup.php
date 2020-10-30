@@ -2,7 +2,7 @@
     require 'connection.php';
     session_start();
     if(isset($_SESSION['email'])){
-        header('location: products.php');
+        header('location: index.php');
     }
 ?>
 

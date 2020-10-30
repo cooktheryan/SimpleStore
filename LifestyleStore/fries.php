@@ -25,7 +25,7 @@
             ?>
             <div class="container">
                 <div class="jumbotron">
-                    <h1>Welcome to our Big Kahuna Burger!</h1>
+                    <h1>Welcome to Big Kahuna Burger!</h1>
                     <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
